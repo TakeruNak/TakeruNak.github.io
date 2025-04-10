@@ -26,16 +26,17 @@ author:
   avatar           : "profile.png"
   name             : "Takeru"
   pronouns         : # example: "she/her"  
-  bio              : "Takeru received Ph.D. in 2022 at Yokohama National University. From 2022 to 2024, they worked as a postdoctoral researcher at the National Institute of Advanced Industrial Science and Technology (AIST). In 2024, they joined Tokyo Institute of Technology as an Assistant Professor."
+  bio              : "I received my Ph.D. from Yokohama National University (YNU) in 2022. From 2022 to 2024, I worked as a postdoctoral researcher at the National Institute of Advanced Industrial Science and Technology (AIST). From 2024 to present, I have worked as an assistant professor at the Tokyo Institute of Technology (present, Institue of Science Tokyo). My research interests include first-principles calculations, quantum chemical calculations, condensed matter physics, space group (nonsymmorphic space group), topological material, symmetry-protected-topological phase, and phase theory, etc."
     # bio              : "Short biography for the left-hand sidebar"
   location         : "Japan"
-  employer         : "Institue of Science Tokyo"
+  employer         : "Institue of Science Tokyo (Tokyo Institute of Technology, ~2024)"
   uri              : # URL
   email            : "nakashima.t.4267@m.isct.ac.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=oHHrZmoAAAAJ"
+    # googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5056-3424"
   semantic         : # URL
