@@ -15,7 +15,9 @@ profiles:
     content: about_takeru.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Schematic figure for myself</p>
+      <p> ... </p>
+      <p> ... </p>
+      <p> ... </p>
 #   - align: left
 #     image: prof_pic.jpg
 #     content: about_einstein.md
