@@ -1,12 +1,10 @@
 ---
 layout: post
 title: First post of blog
-date: 2025-10-01
+date: 2025-10-01 16:40:16
 description: this is the first post of the blog
-tags: formatting charts
+tags: [blog, first-post]
 categories: sample-posts
-chart:
-  plotly: true
 ---
 
 初のブログ記事です. 自分自身の研究や技術的なメモを残すために始めました.
