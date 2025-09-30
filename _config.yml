@@ -186,6 +186,7 @@ exclude:
   - _projects/backup
   - _bibliography/papers_examples.bib
   - _bibliography/records
+  - assets/json/resume_pt-br.json
   - _pages/pt-br/about_einstein.md
   - purgecss.config.js
   - README.md
