@@ -69,7 +69,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/ja-jp/blog/";
               },
-            },{id: "books-the-godfather",
+            },{id: "post-a-post-with-plotly-js",
+        
+          title: "a post with plotly.js",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "",
+        handler: () => {
+          
+            window.location.href = "/ja-jp/blog/2025/plotly/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "",handler: () => {
