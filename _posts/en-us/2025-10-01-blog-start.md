@@ -10,6 +10,7 @@ categories: sample-posts
 初のブログ記事です. 自分自身の研究や技術的なメモを残すために始めました.
 おいおい，使用感に慣れたら，モデルハミルトニアンのレビューや導出方法なども書いていきたいと思います.
 
+<!--
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="assets/img/bern/takeru_eins1.jpg" title="example image" class="img-fluid rounded z-depth-1" 
@@ -19,3 +20,4 @@ categories: sample-posts
 <div class="caption">
     ベルンを訪れた際に，Einsteinの銅像と撮った写真
 </div>
+--->
