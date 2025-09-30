@@ -69,33 +69,27 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-first-post-of-blog",
-        
-          title: "First post of blog",
-        
-        description: "this is the first post of the blog",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "books-the-godfather",
+            },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en-us/the_godfather/";
-            },},{id: "news-7th-psi-k-conference-was-hold-at-the-conference-vennue-of-epfl-lausanne-switzerland-from-25th-to-28th-august-2025",
-          title: '7th Psi-K conference was hold at the Conference vennue of EPFL, Lausanne, Switzerland...',
+            },},{id: "news-i-gave-a-poster-presentation-at-7th-psi-k-conference-epfl-from-25th-to-28th-august-2025",
+          title: 'I gave a poster presentation at 7th Psi-K conference@EPFL (from 25th to 28th...',
           description: "",
           section: "News",},{id: "news-日本物理学会第80回年次大会-広島にて-co2の触媒機能に関する内容で-口頭発表を行いました",
           title: '日本物理学会第80回年次大会@広島にて，CO2の触媒機能に関する内容で，口頭発表を行いました．',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
-          description: "with background image",
+          description: "テスト投稿",
           section: "Projects",handler: () => {
               window.location.href = "/projects/en-us/1_project/";
+            },},{id: "projects-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/en-us/5_project/";
             },},{
         id: 'social-email',
         title: 'Send an email',
