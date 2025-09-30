@@ -62,12 +62,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/ja-JP/teaching/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/ja-JP/people/";
+          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/ja-JP/books/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/ja-JP/blog/";
+              },
+            },{id: "dropdown-publicações",
+              title: "publicações",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/ja-JP/publications/";
+              },
+            },{id: "dropdown-projetos",
+              title: "projetos",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/ja-JP/projects/";
               },
             },{id: "dropdown-blog",
               title: "blog",
