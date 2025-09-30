@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-7th Psi-K conference was hold at the Conference vennue of EPFL, Lausanne, Switzerland from 25th to 28th August 2025.
+I gave a poster presentation at 7th Psi-K conference@EPFL (from 25th to 28th August 2025).

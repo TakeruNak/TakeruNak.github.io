@@ -35,6 +35,6 @@ My recent interest is as follows:
 - Group theory and representation theory for condensed matter physics
 - First-principles calculations based on density functional theory
 - Machine learning for materials informatics
-- Catalysis for CO2 reduction and surface science.
+- Catalysis for CO<sub>2</sub> reduction and surface science.
 
 **My homepage is under construction**

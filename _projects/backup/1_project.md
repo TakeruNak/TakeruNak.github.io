@@ -2,7 +2,7 @@
 page_id: project_1
 layout: page
 title: project 1
-description: テスト投稿
+description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: work
