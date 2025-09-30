@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post of blog
-date: 2025-10-01 
+date: 2025-10-01
 description: this is the first post of the blog
 tags: formatting charts
 categories: sample-posts
