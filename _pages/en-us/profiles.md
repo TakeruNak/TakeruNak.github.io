@@ -14,8 +14,5 @@ profiles:
     image: prof_pic.jpg
     content: about_takeru.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> ... </p>
-      <p> ... </p>
-      <p> ... </p>
+    more_info: false
 ---
