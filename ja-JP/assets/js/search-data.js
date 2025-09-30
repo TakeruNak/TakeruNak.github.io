@@ -83,27 +83,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/ja-JP/blog/";
               },
-            },{id: "dropdown-publicações",
-              title: "publicações",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/ja-JP/publications/";
-              },
-            },{id: "dropdown-projetos",
-              title: "projetos",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/ja-JP/projects/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/ja-JP/blog/";
-              },
             },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
