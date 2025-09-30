@@ -77,7 +77,7 @@ ninja.data = [{
         section: "",
         handler: () => {
           
-            window.location.href = "/ja-jp/blog/2025/plotly/";
+            window.location.href = "/ja-jp/blog/2025/blog/";
           
         },
       },{id: "books-the-godfather",
