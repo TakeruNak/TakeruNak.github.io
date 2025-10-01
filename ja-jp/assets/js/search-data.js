@@ -69,7 +69,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/ja-jp/blog/";
               },
-            },{id: "books-the-godfather",
+            },{id: "post-first-blog-post",
+        
+          title: "First blog post",
+        
+        description: "This is my first blog post.",
+        section: "",
+        handler: () => {
+          
+            window.location.href = "/ja-jp/blog/2025/blog/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "",handler: () => {
