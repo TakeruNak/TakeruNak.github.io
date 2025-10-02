@@ -199,6 +199,7 @@ exclude:
   - _posts/en-us/reference
   - _posts/pt-br/reference
   - _posts/pt-br
+  - _posts/en-us/draft
 keep_files:
   - CNAME
   - .nojekyll
