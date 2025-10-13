@@ -28,14 +28,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I'm [Takeru Nakashima](https://orcid.org/0000-0001-5056-3424), an assistant professor at Institute of Science Tokyo (Science Tokyo).
-My recent interest is as follows:
+[中嶋武](https://orcid.org/0000-0001-5056-3424)のwebsiteへようこそ．現在は，東京科学大学で，助教をしています．徒然なるままに，研究や教育に関する情報を発信していきます（オープンにしていい内容）．
 
-- Topological insulators, semimetals, and Modern theory of polarization
-- Group theory and representation theory for condensed matter physics
-- First-principles calculations based on density functional theory
-- Non-equilibrium Green's function method
-- Machine learning for materials informatics
-- Catalysis for CO<sub>2</sub> reduction and surface science.
+最近の研究の興味としては，以下のようなものがあります:
+
+- トポロジカル絶縁体，半金属，Vanderbilt-Restaの現代の分極理論
+- Landauらの現代的相転移理論とBuergerらの構造的相転移理論，群や表現論
+- 第一原理計算，特に密度汎関数理論（多体摂動論）
+- 非平衡Green関数（Ginluca，Robertらの本で勉強中)
+- 機械学習（材料インフォマティクス）
+- CO<sub>2</sub>還元の触媒，表面科学
 
 **My homepage is under construction**
