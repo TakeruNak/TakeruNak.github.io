@@ -11,7 +11,6 @@ buy_link: https://amzn.asia/d/cCn30Kx
 started: 2023-10-01
 finished: 2025-11-10
 released: 2018
-stars: 
 goodreads_review: 6318556633
 status: Finished
 ---

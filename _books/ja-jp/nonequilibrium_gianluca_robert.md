@@ -11,7 +11,6 @@ buy_link: https://amzn.asia/d/71kJqK6
 started: 2025-09-01
 finished: 
 released: 2025
-stars: 
 goodreads_review: 6318556633
 status: Reading
 ---
