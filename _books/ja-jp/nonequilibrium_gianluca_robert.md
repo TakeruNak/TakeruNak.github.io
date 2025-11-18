@@ -9,7 +9,7 @@ categories: nonequilibrium, quantum-physics, many-body-theory, greens-function
 tags: top-100
 buy_link: https://amzn.asia/d/71kJqK6
 started: 2025-09-01
-finished: 
+finished:
 released: 2025
 goodreads_review: 6318556633
 status: Reading
