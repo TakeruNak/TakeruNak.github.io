@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a poster presentation at 7th Psi-K conference@EPFL (from 25th to 28th August 2025).
+I gave a poster presentation at [7th Psi-K conference](https://www.psik2025.net/)@EPFL (from 25th to 28th August 2025).
