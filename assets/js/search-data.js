@@ -80,11 +80,16 @@ ninja.data = [{
             window.location.href = "/blog/2025/blog/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-berry-phases-in-electronic-structure-theory",
+          title: 'Berry Phases in Electronic Structure Theory',
           description: "",
           section: "",handler: () => {
-              window.location.href = "/books/en-us/the_godfather/";
+              window.location.href = "/books/ja-jp/berryphases_vanderbilt/";
+            },},{id: "books-nonequilibrium-many-body-theory-of-quantum-systems",
+          title: 'Nonequilibrium Many-Body Theory of Quantum Systems',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/ja-jp/nonequilibrium_gianluca_robert/";
             },},{id: "news-i-gave-a-poster-presentation-at-7th-psi-k-conference-epfl-from-25th-to-28th-august-2025",
           title: 'I gave a poster presentation at 7th Psi-K conference@EPFL (from 25th to 28th...',
           description: "",
@@ -96,6 +101,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-2025年10月27日-30日-つくば国際会議場にて開催された-the-26th-asian-workshop-on-first-principles-electronic-structure-calculations-asian-26-に参加してきました",
           title: '2025年10月27日-30日，つくば国際会議場にて開催された「The 26th Asian Workshop on First-Principles Electronic Structure Calculations (Asian 26)」に参加してきました.',
+          description: "",
+          section: "News",},{id: "news-2025年11月14日-15日-筑波山ホテル青木屋にて開催された-イオン渋滞学第4回領域会議-に参加してきました",
+          title: '2025年11月14日-15日，筑波山ホテル青木屋にて開催された「イオン渋滞学第4回領域会議」に参加してきました.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
