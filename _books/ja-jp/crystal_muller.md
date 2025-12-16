@@ -1,17 +1,18 @@
 ---
 layout: book-review
 title: Symmetry Relationships between Crystal Structures
-author: Ulrich Müller, Gemma De La Flor
+author: Ulrich Muller, Gemma De La Flor
 cover: assets/img/book_covers/crystal_muller.jpg
-isbn: 0199669953 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: group-theory, physics, crystallography
+olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: topology, physics, electronic-structure
 tags: top-100
-buy_link: https://amzn.asia/d/2xIzajy
-started: 2025-12-01
-finished: 
-released: 2013
+buy_link: https://amzn.asia/d/cCn30Kx
+started: 2023-10-01
+finished: 2025-11-10
+released: 2018
 goodreads_review: 6318556633
-status: Reading
+status: Finished
 ---
 
 Topological insulatorに関する基礎事項がよくまとまっていた．
