@@ -95,11 +95,6 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/ja-jp/books/ja-jp/nonequilibrium_gianluca_robert/";
-            },},{id: "books-symmetry-relationships-between-crystal-structures",
-          title: 'Symmetry Relationships between Crystal Structures',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/ja-jp/books/ja-jp/tmp/crystal_muller/";
             },},{id: "news-i-gave-a-poster-presentation-at-7th-psi-k-conference-epfl-from-25th-to-28th-august-2025",
           title: 'I gave a poster presentation at 7th Psi-K conference@EPFL (from 25th to 28th...',
           description: "",
