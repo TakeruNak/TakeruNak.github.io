@@ -15,4 +15,6 @@ goodreads_review: 6318556633
 status: Reading
 ---
 
-4章contourの概念の部分を読んでいる最中．適度に読了した内容やレビューを追記していく予定．
+4章での最も重要な点としては，contourという概念を導入することで，局所的な時間における多価関数であったGreen関数をwell-definedに取り扱えるようになったこと，contour ordering operatorを導入することで，chronologicalとanti-chronological orderingを統一的に扱えるようになったことが挙げられる．基本的に，非平衡Green関数を計算するための基礎的な道具立てが整えられた章である．演習問題自体は，addiabatic asuumptionベースの議論でそれほど難しくなかった．fermion & boson の演算子間の交換関係に慣れていれば学部生でも解けるレベルだと思う．初学者に難しい概念として，contourのイメージかもしれないが，これはリーマン面のイメージを持てば理解しやすいと思う．
+
+5章では，．．．
