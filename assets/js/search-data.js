@@ -85,6 +85,11 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/ja-jp/berryphases_vanderbilt/";
+            },},{id: "books-symmetry-relationships-between-crystal-structures",
+          title: 'Symmetry Relationships between Crystal Structures',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/ja-jp/crystal_muller/";
             },},{id: "books-nonequilibrium-many-body-theory-of-quantum-systems",
           title: 'Nonequilibrium Many-Body Theory of Quantum Systems',
           description: "",
@@ -104,6 +109,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-2025年11月14日-15日-筑波山ホテル青木屋にて開催された-イオン渋滞学第4回領域会議-に参加してきました",
           title: '2025年11月14日-15日，筑波山ホテル青木屋にて開催された「イオン渋滞学第4回領域会議」に参加してきました.',
+          description: "",
+          section: "News",},{id: "news-i-attended-the-materials-research-meeting-2025-held-in-yokohamna-from-december-8-to-13-2025-i-presented-my-recent-research-on-co2-catalysis-and-simulation",
+          title: 'I attended the Materials Research Meeting 2025 held in Yokohamna from December 8...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
