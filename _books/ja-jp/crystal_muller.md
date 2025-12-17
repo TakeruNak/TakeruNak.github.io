@@ -9,7 +9,7 @@ categories: topology, physics, electronic-structure
 tags: top-100
 buy_link: https://amzn.asia/d/cCn30Kx
 started: 2025-12-01
-finished: 2026-01-01
+finished: 0000-00-00
 released: 2018
 goodreads_review: 6318556633
 status: Reading
