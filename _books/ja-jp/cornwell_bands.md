@@ -8,6 +8,7 @@ isbn: 0720414601
 categories: crystallography,group-theory,solid-state-physics
 tags: top-100
 started: 2025-12-17
+finished: 2026-01-01
 released: 1969
 goodreads_review: 6318556633
 status: Reading
