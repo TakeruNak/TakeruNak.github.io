@@ -85,6 +85,11 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/ja-jp/books/ja-jp/berryphases_vanderbilt/";
+            },},{id: "books-group-theory-and-electroni-energy-bands-in-solids",
+          title: 'Group Theory and Electroni Energy Bands in Solids',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/ja-jp/books/ja-jp/cornwell_bands/";
             },},{id: "books-symmetry-relationships-between-crystal-structures",
           title: 'Symmetry Relationships between Crystal Structures',
           description: "",
