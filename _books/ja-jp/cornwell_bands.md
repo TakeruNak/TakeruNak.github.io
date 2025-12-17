@@ -3,11 +3,10 @@ layout: book-review
 title: Group Theory and Electroni Energy Bands in Solids
 author: J.F.Cornwell
 cover: assets/img/book_covers/cornwell_bands.jpg
-olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0720414601
 categories: crystallography,group-theory,solid-state-physics
 tags: top-100
-buy_link: 
 started: 2025-12-17
 finished: 
 released: 1969
