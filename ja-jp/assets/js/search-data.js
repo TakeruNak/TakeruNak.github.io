@@ -118,16 +118,11 @@ ninja.data = [{
           section: "",},{id: "news-i-attended-the-materials-research-meeting-2025-held-in-yokohamna-from-december-8-to-13-2025-i-presented-my-recent-research-on-co2-catalysis-and-simulation",
           title: 'I attended the Materials Research Meeting 2025 held in Yokohamna from December 8...',
           description: "",
-          section: "",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "テスト投稿",
+          section: "",},{id: "projects-how-to-write-a-research-note-with-obsidian",
+          title: 'How to write a research note with Obsidian',
+          description: "Under Construction, explanaing how to write a research note with Obsidian",
           section: "",handler: () => {
               window.location.href = "/ja-jp/projects/en-us/1_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "",handler: () => {
-              window.location.href = "/ja-jp/projects/en-us/5_project/";
             },},{
         id: 'social-email',
         title: '',
