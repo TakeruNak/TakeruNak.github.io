@@ -123,6 +123,11 @@ ninja.data = [{
           description: "Under Construction, explanaing how to write a research note with Obsidian",
           section: "",handler: () => {
               window.location.href = "/ja-jp/projects/en-us/1_project/";
+            },},{id: "projects-how-to-find-research-theme",
+          title: 'How to find research theme',
+          description: "Under Construction, explanaing how to fin researh theme.",
+          section: "",handler: () => {
+              window.location.href = "/ja-jp/projects/en-us/2_project/";
             },},{
         id: 'social-email',
         title: '',
