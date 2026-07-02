@@ -73,6 +73,17 @@ ninja.data = [{
         
           title: "First blog post",
         
+        description: "Just memo",
+        section: "",
+        handler: () => {
+          
+            window.location.href = "/ja-jp/blog/2026/blog/";
+          
+        },
+      },{id: "post-first-blog-post",
+        
+          title: "First blog post",
+        
         description: "This is my first blog post.",
         section: "",
         handler: () => {
@@ -117,6 +128,12 @@ ninja.data = [{
           description: "",
           section: "",},{id: "news-i-attended-the-materials-research-meeting-2025-held-in-yokohamna-from-december-8-to-13-2025-i-presented-my-recent-research-on-co2-catalysis-and-simulation",
           title: 'I attended the Materials Research Meeting 2025 held in Yokohamna from December 8...',
+          description: "",
+          section: "",},{id: "news-paper-was-published-in-the-journal-of-physical-chemistry-c-j-phys-chem-c-2026-130-15-5411-5417",
+          title: 'Paper was published in The Journal of Physical Chemistry C (J. Phys. Chem....',
+          description: "",
+          section: "",},{id: "news-my-proporsal-for-asunaro-grant-was-accepted",
+          title: 'My proporsal for Asunaro Grant was accepted🫡.',
           description: "",
           section: "",},{id: "projects-how-to-write-a-research-note-with-obsidian",
           title: 'How to write a research note with Obsidian',
